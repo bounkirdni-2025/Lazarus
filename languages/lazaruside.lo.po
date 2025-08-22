@@ -1,8 +1,16 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: lazaruside\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-01-01 12:00+0100\n"
+"PO-Revision-Date: 2025-08-18 12:00+0700\n"
+"Last-Translator: Bone_NI_2025 & Luna_B_One_2025 <laosoft.dev@example.com>\n"
+"Language-Team: LaoSoft Development Team <laosoft.dev@example.com>\n"
+"Language: lo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: lazarusidestrconsts.cocoamfstbicommand
 msgid "Command"
